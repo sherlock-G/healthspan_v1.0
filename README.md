@@ -1,11 +1,9 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
+# 📦 Healthspan_v1.0
 ```
 
-Description of the app ...
+LLM-powered chat interface. v1.0 recommends three daily practices for improving an individual's healthspan. Future versions of Healthspan will utilize Retrieval Augmented Generation (RAG) to provide improved contextualization of both query and response. Data to be included in the vector database include electronic health records, peer-reviewed literature, and data from wearables and IoT devices (first batched, and later streaming).   
 
-## Demo App
+## This is a Demonstration App Only
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
 
