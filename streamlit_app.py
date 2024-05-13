@@ -1,7 +1,7 @@
 import streamlit as st
 import openai as openai
 import langchain as langchain
-from langchain.llms import OpenAI
+from langchain_community.llms import OpenAI
 
 st.title('Healthspan_v1.0')
 
