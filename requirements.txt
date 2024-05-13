@@ -1,3 +1,4 @@
 openai
+langchain-community
 langchain-openai
 streamlit>=1.26.0
